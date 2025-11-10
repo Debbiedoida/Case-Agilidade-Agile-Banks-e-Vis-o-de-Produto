@@ -1,5 +1,5 @@
-# Case-Agilidade-Agile-Banks-e-Visão-de-Produto
-Case Agilidade Agile Banks e Visão de Produto
+# Case Agilidade Agile Banks e Visão de Produto
+Case **Agilidade Agile Banks e Visão de Produto**, elaborado pelos professores Eloisa Masson e Antonio Carlos Mariani Mansur para fins de capacitação na CAIXA e na ENAP.
 
 # Onde pegar os arquivos para subir no Copilot
 
@@ -28,7 +28,6 @@ Você solicitou que eu extraísse as informações do case da empresa Agile Bank
 Viabilizar o 1º Congresso Internacional de Agilidade no Setor Bancário, promovendo a agilidade no setor e aumentando o número de associados do Agile Banks.  
 **Mudança positiva:**  
 Facilitar a divulgação, inscrição, participação e avaliação do evento, promovendo a colaboração internacional e o crescimento da comunidade ágil bancária.  
-[Referência](https://d.docs.live.net/BAE379780E59F0A3/Arquivos%20de%20Microsoft%20Copilot%20Chat/Estudo%20de%20Caso%20-%20Vis%C3%A3o%20Roadmap%20Backlog.pdf)
 
 ---
 
@@ -39,7 +38,6 @@ Profissionais, empresas e interessados em agilidade no setor bancário, especial
 - Pessoas interessadas em práticas ágeis aplicadas ao setor bancário  
 - Stakeholders do evento (organizadores, palestrantes, participantes)  
 - Público internacional (site multilíngue)  
-[Referência](https://d.docs.live.net/BAE379780E59F0A3/Arquivos%20de%20Microsoft%20Copilot%20Chat/Estudo%20de%20Caso%20-%20Vis%C3%A3o%20Roadmap%20Backlog.pdf)
 
 ---
 
@@ -51,8 +49,8 @@ Profissionais, empresas e interessados em agilidade no setor bancário, especial
 - Transmissão online restrita a inscritos pagantes, com registro de presença  
 - Emissão e validação de certificados personalizados  
 - Avaliação do evento e feedback para palestrantes  
-- Relatórios e estatísticas detalhadas sobre participantes e resultados financeiros  
-[Referência](https://d.docs.live.net/BAE379780E59F0A3/Arquivos%20de%20Microsoft%20Copilot%20Chat/Estudo%20de%20Caso%20-%20Vis%C3%A3o%20Roadmap%20Backlog.pdf)
+- Relatórios e estatísticas detalhadas sobre participantes e resultados financeiros
+
 
 **Priorização:**  
 1. Inscrições seguras e rápidas  
@@ -72,7 +70,7 @@ Plataforma digital (site multilíngue) para gestão completa do congresso online
 - Pagamento diversificado e promoções  
 - Gerenciamento detalhado da programação e participantes  
 - Emissão automática de certificados e relatórios  
-[Referência](https://d.docs.live.net/BAE379780E59F0A3/Arquivos%20de%20Microsoft%20Copilot%20Chat/Estudo%20de%20Caso%20-%20Vis%C3%A3o%20Roadmap%20Backlog.pdf)
+
 
 **Principais funcionalidades (até 5):**  
 1. Inscrições online com múltiplos métodos de pagamento  
@@ -90,7 +88,7 @@ Plataforma digital (site multilíngue) para gestão completa do congresso online
 - Gerar receita com inscrições e patrocínios  
 - Fortalecer a marca e a comunidade ágil no setor bancário  
 - Obter dados estratégicos sobre participantes e resultados do evento  
-[Referência](https://d.docs.live.net/BAE379780E59F0A3/Arquivos%20de%20Microsoft%20Copilot%20Chat/Estudo%20de%20Caso%20-%20Vis%C3%A3o%20Roadmap%20Backlog.pdf)
+
 
 **Priorização:**  
 1. Crescimento de associados  
@@ -107,6 +105,5 @@ Plataforma digital (site multilíngue) para gestão completa do congresso online
 - Necessidades detalhadas e priorizadas
 - Produto diferenciado e focado em até 5 grandes capacidades
 - Objetivos de negócio claros, específicos e priorizados  
-[Referência](https://d.docs.live.net/BAE379780E59F0A3/Arquivos%20de%20Microsoft%20Copilot%20Chat/Product-Vision-Board-with-Checklist.pdf)"
 
 
