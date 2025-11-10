@@ -104,6 +104,117 @@ Plataforma digital (site multilíngue) para gestão completa do congresso online
 - Grupo-alvo claro e específico
 - Necessidades detalhadas e priorizadas
 - Produto diferenciado e focado em até 5 grandes capacidades
-- Objetivos de negócio claros, específicos e priorizados  
+- Objetivos de negócio claros, específicos e priorizados
+
+
+# Nova interação com a IA - Prompt 2
+"Preparar versão visual para apresentação"
+
+
+# Devolução da IA referente ao Prompt 2
+
+Aqui está uma versão visual do preenchimento do Product Vision Board para o case Agile Banks, pronta para apresentação. O formato segue o template clássico, com destaque para cada seção principal e os pontos essenciais extraídos do estudo de caso.
+
+---
+
+# **Product Vision Board – Agile Banks**
+## 1. **Visão**
+> **Viabilizar o 1º Congresso Internacional de Agilidade no Setor Bancário, promovendo a agilidade no setor e aumentando o número de associados do Agile Banks.**
+- Facilitar divulgação, inscrição, participação e avaliação do evento.
+- Promover colaboração internacional e crescimento da comunidade ágil bancária.
+
+---
+
+## 2. **Grupo-Alvo**
+- **Profissionais e empresas do setor bancário interessados em agilidade**
+- Stakeholders do evento (organizadores, palestrantes, participantes)
+- Público internacional (site multilíngue)
+
+---
+
+## 3. **Necessidades**
+- Divulgação eficiente (redes sociais, SMS, e-mail marketing)
+- Inscrições online rápidas e seguras (boleto, cartão, parcelamento, promoções)
+- Gerenciamento da programação e palestrantes
+- Transmissão online restrita a inscritos pagantes, com registro de presença
+- Emissão e validação de certificados personalizados
+- Avaliação do evento e feedback para palestrantes
+- Relatórios e estatísticas detalhadas
+
+**Prioridade:**
+1. Inscrições seguras e rápidas
+2. Divulgação ampla
+3. Transmissão eficiente
+4. Certificados e avaliações
+5. Relatórios e gestão
+
+---
+
+## 4. **Produto**
+- **Plataforma digital (site multilíngue) para gestão completa do congresso online**
+- **Diferenciais:**
+  - Multilíngue
+  - Integração com redes sociais e automação de comunicação
+  - Pagamento diversificado e promoções
+  - Gerenciamento detalhado da programação e participantes
+  - Emissão automática de certificados e relatórios
+
+**Principais funcionalidades:**
+1. Inscrições online com múltiplos métodos de pagamento
+2. Integração com redes sociais e automação de e-mails/SMS
+3. Gerenciamento de programação e palestrantes
+4. Transmissão online restrita e registro de presença
+5. Emissão de certificados e relatórios financeiros/estatísticos
+
+---
+
+## 5. **Objetivos de Negócio**
+- Aumentar o número de associados do Agile Banks
+- Dar visibilidade internacional à associação
+- Gerar receita com inscrições e patrocínios
+- Fortalecer a marca e a comunidade ágil no setor bancário
+- Obter dados estratégicos sobre participantes e resultados do evento
+
+**Prioridade:**
+1. Crescimento de associados
+2. Visibilidade internacional
+3. Receita do evento
+4. Fortalecimento da marca
+5. Inteligência de dados
+
+---
+
+## **Checklist de Aplicação**
+- Visão inspiradora, compartilhada e ética
+- Grupo-alvo claro e específico
+- Necessidades detalhadas e priorizadas
+- Produto diferenciado e focado em até 5 grandes capacidades
+- Objetivos de negócio claros, específicos e priorizados
+
+---
+
+### **Sugestão de Apresentação**
+- Utilize este conteúdo em slides, quadros visuais ou mural colaborativo.
+- Recomendo destacar cada seção com cores diferentes e ícones para facilitar a compreensão.
+- Se quiser, posso gerar um quadro visual pronto para PowerPoint, Miro ou Canva.
+
+**Deseja que eu gere um quadro visual em imagem para facilitar a apresentação? Se sim, me diga o formato preferido (slide, mural, quadro único, etc.)!**
+
+# Nova interação com a IA, solicitada a geração de um quadro visual que resultou no que segue:
+
+## Resultado 1
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/e03cc58e-a462-4bb8-8bc0-e2ca5cd37cf6" />
+
+## Resultado 2
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/2d07ff71-efdb-4167-a7aa-2fddf78e853f" />
+
+## Conclusão
+
+### A IA é um baita auxílio, porém cabe a você definir o que faz ou não sentido para o produto à luz da estratégia.
+### A geração das imagens não ficou boa, ideal refinar o prompt, habilitar mais recursos de geração de imagens ou fazer a tela de ppt manualmente.
+
+# Fim.
+
+
 
 
